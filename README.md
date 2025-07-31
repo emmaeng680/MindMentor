@@ -109,7 +109,7 @@ Mind Mentor is an intelligent study companion that leverages AI to transform the
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/KartikLabhshetwar/mind-mentor
+git clone https://github.com/emmaeng680/MindMentor
 cd mind-mentor
 ```
 
